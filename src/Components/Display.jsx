@@ -62,7 +62,7 @@ function Display() {
       <div className="rate">
         <div>
             <span>Humidity</span>
-            <h1>Null</h1>
+            <h1>40%</h1>
         </div>
       </div>
      
